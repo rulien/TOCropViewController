@@ -26,8 +26,6 @@
 
 @interface TOCropToolbar()
 
-@property (nonatomic, strong) UIView *backgroundView;
-
 @property (nonatomic, strong, readwrite) UIButton *doneTextButton;
 @property (nonatomic, strong, readwrite) UIButton *doneIconButton;
 
